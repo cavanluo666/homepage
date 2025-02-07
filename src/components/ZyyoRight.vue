@@ -40,7 +40,7 @@ let iconItems: IconItem[] = [
     name: 'Mail',
   },
   {
-    onclick: () => props.pop(new URL('@/assets/img/wxzsm.jpg', import.meta.url).href),
+    onclick: () => props.pop(new URL('@/assets/img/wxzsm.pnh', import.meta.url).href),
     svg: SponsorSvg,
     name: '赞助',
   },
