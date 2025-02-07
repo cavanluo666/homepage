@@ -20,21 +20,21 @@ let leftDesItems: LeftDesItem[] = [
   },
   {
     svg: NameSvg,
-    text: 'Sias',
+    text: 'cavan',
   },
 ];
 
 // 时间线
 let lineItems: LineItem[] = [
-  { text: '敬请期待', time: '2024.1' },
-  { text: 'ICP备案成功', time: '2023.8' },
-  { text: '注册域名zyyo.net', time: '2023.3' },
-  { text: '出来后洗心革面', time: '2021.2' },
+  { text: '敬请期待', time: '2026.1' },
+  { text: '网站建成', time: '2025.1' },
+  { text: '...', time: '...' },
+  { text: '...', time: '...' },
   { text: '...', time: '...' },
 ];
 
 // 标签
-let tags: string[] = ['网瘾', '小学生', '大一', '网页', 'linux', '跑者', '前端', '骑行'];
+let tags: string[] = ['爱玩迷你世界', '初中生', 'python'];
 </script>
 
 <template>
