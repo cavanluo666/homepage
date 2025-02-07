@@ -70,7 +70,7 @@ let siteProjectItems: ProjectItemProps[] = [
   {
     title: '个人主页',
     value: '一个初中生的主页网站',
-    href: 'https://lch2.us.kg',
+    href: 'https://lchhome.netlify.app',
     image: new URL('@/assets/img/i3.png', import.meta.url).href,
     extClass: 'a',
   },
