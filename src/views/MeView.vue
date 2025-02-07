@@ -25,8 +25,8 @@ function pop(imageURL?: string) {
   <div class="zyyo-filter"></div>
   <ZyyoMain :pop="pop"></ZyyoMain>
   <footer>
-    Zyyo © 2024 |
-    <a href="https://beian.miit.gov.cn/"> 豫ICP备2023015852号-1 </a>
+    cavan © 2025 |
+    <a href="https://lchhome.netlify.app/"> 去你妈的备案号 </a>
   </footer>
   <div @click="() => pop()" class="tc" v-bind:class="{ active: tcActive }">
     <div
