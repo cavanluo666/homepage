@@ -30,12 +30,12 @@ interface IconItem {
 // icon 列表
 let iconItems: IconItem[] = [
   {
-    href: 'https://www.baidu.com',
+    href: 'https://github.com/cavanluo666/',
     svg: GithubSvg,
     name: 'Github',
   },
   {
-    href: 'mailto:i@zyyo.net',
+    href: 'mailto:cavanluo@hotmail.com',
     svg: MailSvg,
     name: 'Mail',
   },
@@ -47,7 +47,7 @@ let iconItems: IconItem[] = [
   {
     onclick: () => props.pop(new URL('@/assets/img/wx.jpg', import.meta.url).href),
     svg: WxSvg,
-    name: '微信',
+    name: 'QQ',
   },
 ];
 
