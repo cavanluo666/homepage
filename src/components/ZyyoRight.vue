@@ -75,13 +75,11 @@ let siteProjectItems: ProjectItemProps[] = [
     extClass: 'a',
   },
   {
-    title: '日志',
-    value: '查看日志',
+    title: '个人主页(备用1)',
+    value: 'cloudflare的CDN,us.kg的域名防失联',
+    href: 'https://www.lch2.us.kg',
     image: new URL('@/assets/img/i3.png', import.meta.url).href,
     extClass: 'a',
-    onclick: () => {
-      txcChangeLog.showModal();
-    },
   },
 ];
 
