@@ -5,7 +5,7 @@
       src="@/assets/img/logokuang.png"
     />
   </div>
-  <div class="welcome">你好,我是 <span class="gradientText"> cavan </span></div>
+  <div class="welcome">你好，我是 <span class="gradientText"> cavan </span></div>
   <div class="description">👦 <span class="purpleText"> </span> 一个初中生</div>
   <div class="description">
     📝 The only way to do <span class="purpleText textBackground">great</span> is to
