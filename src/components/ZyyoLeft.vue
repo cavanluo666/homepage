@@ -16,7 +16,7 @@ interface LineItem {
 let leftDesItems: LeftDesItem[] = [
   {
     svg: LocationSvg,
-    text: 'China-Henan',
+    text: '中国-成都',
   },
   {
     svg: NameSvg,
