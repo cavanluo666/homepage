@@ -75,14 +75,7 @@ let siteProjectItems: ProjectItemProps[] = [
     extClass: 'a',
   },
   {
-    title: '个人主页(备用1)',
-    value: 'netlify默认域名',
-    href: 'https://lchhome.netlify.app',
-    image: new URL('@/assets/img/i3.png', import.meta.url).href,
-    extClass: 'a',
-  },
-  {
-    title: '个人主页(备用3)',
+    title: '个人主页(备用2)',
     value: 'edgeone的CDN名防失联',
     href: 'https://www.lch2.us.kg',
     image: new URL('@/assets/img/i3.png', import.meta.url).href,
