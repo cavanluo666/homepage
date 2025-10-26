@@ -54,14 +54,14 @@ let iconItems: IconItem[] = [
 // site 列表
 let siteProjectItems: ProjectItemProps[] = [
   {
-    title: '博客',
+    title: '博客（已死）',
     value: '一些教程',
     href: 'http://cavan.us.kg',
     image: new URL('@/assets/img/i1.png', import.meta.url).href,
     extClass: 'a',
   },
   {
-    title: '罗晨皓的分享站',
+    title: '罗晨皓的分享站(已死)',
     value: '分享宝藏资源',
     href: 'https://alist.cavan.us.kg',
     image: new URL('@/assets/img/i2.png', import.meta.url).href,
@@ -82,8 +82,8 @@ let siteProjectItems: ProjectItemProps[] = [
     extClass: 'a',
   },
   {
-    title: '个人主页(备用2)',
-    value: 'cloudflare的CDN,us.kg的域名防失联',
+    title: '个人主页(备用3)',
+    value: 'edgeone的CDN名防失联',
     href: 'https://www.lch2.us.kg',
     image: new URL('@/assets/img/i3.png', import.meta.url).href,
     extClass: 'a',
